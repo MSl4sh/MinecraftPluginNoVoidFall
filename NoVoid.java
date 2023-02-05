@@ -1,8 +1,4 @@
 
-
-
-
-
 public class Main extends JavaPlugin implements Listener {
     private String worldName;
 
